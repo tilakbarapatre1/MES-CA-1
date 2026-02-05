@@ -32,3 +32,4 @@ MOV 52H,#00H      ; A = B
 
 STOP: SJMP STOP
 END
+
